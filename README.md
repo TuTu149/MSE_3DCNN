@@ -1,2 +1,2 @@
-以Indian Pines 数据集为例：
-IN-Model.py输出 文件是csv文件，需要使用csv-mat.py转换成mat文件，然后在Matlab中运行stm.m，输出分类图像
+Taking the Indian Pines dataset as an example:
+The file output by IN-Model. py is a csv file, which needs to be converted to a mat file using csv-mat. py, and then run stm. m in Matlab to output the classification image
